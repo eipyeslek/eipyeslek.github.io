@@ -1,0 +1,46 @@
+p {
+    font-size: 20px;
+    font-family: "Montserrat&display";
+    text-align: center;
+
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+    font-family: "Montserrat&display"
+    
+  }
+  
+  p, li {
+    font-size: 16px;    
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: left;
+  }
+  
+  html {
+    background-color: #6FA7D1;
+  }
+
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: rgb(117, 118, 185);
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;    
+    color: #6FA7D1;
+    text-shadow: 3px 3px 1px black;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
+
+ 
